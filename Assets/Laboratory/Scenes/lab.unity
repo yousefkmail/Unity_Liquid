@@ -55584,6 +55584,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Beaker (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5250543287547187334, guid: 1b1af55450664d6428c4e5030a351b13,
+        type: 3}
+      propertyPath: BeakerFillAmount
+      value: 0.594
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
